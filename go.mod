@@ -1,4 +1,4 @@
-module github.com/Kartochnik010/lib_time
+module github.com/kartochnik010/lib_time
 
 go 1.21
 
